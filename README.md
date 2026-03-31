@@ -15,7 +15,11 @@
 | 5   | [코드 품질 및 설명]            | 코드 가독성, 주석, 실행 결과 스크린샷 포함 여부 |
          
 
-report#1에 Ollama 설치 및 모델 실행
+report#1에 Ollama 설치 및 모델 실행 
+-
 report#2에 파일 읽기/쓰기/수정 Tool
+-
 report#3,4에는 나무위키 검색 Tool과 연속 Tool 호출 구현
-How-Sequential-Tool-Calls-Work.txt에 연속 호출이 어떻게 작동하는지에 대한 간단한 설명을 적어두었습니다. 
+-
+How-Sequential-Tool-Calls-Work.txt에 연속 호출이 어떻게 작동하는지에 대한 간단한 설명을 적어두었습니다.
+-
